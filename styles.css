@@ -55,8 +55,8 @@ img {
 .Center {
     display: flex;
     justify-content: center;
-    padding-left: 5%;
-    padding-right: 5%;    
+    padding-left: 11%;
+    padding-right: 11%;    
 }
 
 .block {

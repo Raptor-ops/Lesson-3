@@ -1,0 +1,66 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    display: inline-block;
+    width: 200px;
+    padding: 8px;
+    border-radius: 5%;
+    color: black;
+    border: 1px solid rgb(230, 230, 230);
+    text-align: center;
+    text-decoration: none;
+    margin-top: 1%;
+}
+
+img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.UpBlock {
+    
+    text-align: center;
+    width: 100em;
+    margin-left: auto;
+    margin-right: auto;
+    height: 20%;
+    margin-bottom: 5%;
+}
+
+.UpBlock button {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+
+}
+
+.Center {
+    display: flex;
+    justify-content: center;
+    padding-left: 5%;
+    padding-right: 5%;    
+}
+
+.block {
+    padding: 10px 20px;   
+    background-color: rgb(230, 230, 230);
+
+}
